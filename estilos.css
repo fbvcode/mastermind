@@ -1,0 +1,35 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.divrecord{
+    display: flex;
+}
+
+footer {
+    text-align: center;
+    margin: 15px;
+}
+
+input{
+    width: 30px;
+}
+
+.victoria, .record {
+    color: green;
+    text-align: center;
+}
+
+.nuevaPartida{
+    margin: 20px;
+    display: flex;
+}
+
+button {
+    margin-right: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
